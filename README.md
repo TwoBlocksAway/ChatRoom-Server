@@ -19,10 +19,7 @@ Follow the instruction to run the application locally
 
 ### Server Side
 1. Run `npm install`
-2. Build JavaScript with TypeScript
-```
-$ gulp build
-```
+2. Build JavaScript with TypeScript with `gulp build`
 3. Run `npm start`
 
 ### Client Side
