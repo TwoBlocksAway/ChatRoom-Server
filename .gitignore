@@ -4,8 +4,11 @@
 /server/node_modules
 /server/dist
 /server/npm-debug.log
+/server/package-lock.json
 
 ## client
+/client/package-lock.json
+
 # compiled output
 /client/dist
 /client/tmp
