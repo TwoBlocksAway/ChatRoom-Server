@@ -1,4 +1,4 @@
-#H ello Friends
+# Hello Friends
 
 This is project is to build a Simple real time chatting application. It contains server & client side code using `TypeScript` language
 
